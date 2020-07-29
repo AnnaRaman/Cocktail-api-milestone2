@@ -94,7 +94,6 @@ All links provided on the website have been coded with 'target="_blank"' so that
 
 With thanks to Flexbox’s framework, the website has been tested and is successfully responsive to different screen sizes, and the elements on the page wrap accordingly and appropriately. The tested mobile devices were iPhone model 5 through to iPhone 8, Galaxy S5, pixel and pixel XL. 
 
-****ISSUES/BUGS****
 
 ### DEPLOYMENT
 This project has been deployed from the master branch to the hosting platform, GitPages. To run locally, copy the following link into an editor: https://github.com/AnnaRaman/milestone2.git.
