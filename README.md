@@ -1,6 +1,8 @@
 # Anna Raman – in the mix.
 **Milestone Project 2: Interactive Frontend Development – Code Institute**
 
+live: https://annaraman.github.io/Cocktail-api-milestone2/
+
 My website presents a catalogue of cocktails, the data has been fetched from an <a href="https://cocktailsapi.xyz/">API (cocktails.xyz)</a>. The intention of the website it to allow the user to easily find a cocktail to their taste, by searching a cocktail name, ingredient or by browsing those cocktails presented on the page. The cocktails are presented in a hover-over flip card format for the purpose of engaging the user, and to allow the user to choose how much information they would like to glean from each cocktail. If the user wishes, they can use the ‘lucky dip’ function which will generate, at random, a cocktail from the collection.
 
 ### USER EXPERIENCE (UX)
